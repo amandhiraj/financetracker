@@ -5,3 +5,4 @@ venv/
 # IDE settings
 *.pyc
 __pycache__/
+.DS_Store

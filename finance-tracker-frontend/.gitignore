@@ -39,3 +39,4 @@ logs
 jspm_packages/
 # VSCode settings
 .vscode/
+.DS_Store
