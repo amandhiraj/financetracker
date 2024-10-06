@@ -1,7 +1,8 @@
 # Personal Finance Tracker
 
 ## Project Overview
-The Personal Finance Tracker is a web application that allows users to track their income and expenses. Users can add, edit, and delete transactions, view their transaction history, and see a summary of their financial status.
+The Personal Finance Tracker is a web application that allows users to track their income and expenses. Users can add, edit, and delete transactions, view their transaction history, and see a summary of their financial status. **Please note that this project primarily focused on backend development; therefore, the frontend may not be visually appealing.**
+
 
 ![Project Screenshot](image.png)  <!-- Change the path as needed -->
 
